@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "657472456708",
+    "project_id": "testhammad-27adb",
+    "storage_bucket": "testhammad-27adb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:657472456708:android:6c603f4e95e9c985ef4d51",
+        "android_client_info": {
+          "package_name": "com.example.testapp_hammad"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNS9aztBU7GD2csQSDU6t0Ak6CzTQSfMs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
